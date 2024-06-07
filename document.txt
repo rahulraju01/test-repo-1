@@ -1,4 +1,3 @@
 welcome to sample document
-**** Changes related to feature-branch-4 *****
 **** Updated changes related feature branch 5 ****
 
